@@ -1,6 +1,6 @@
 # Instracart-Python
 Data Analysis Project conducted in Python for Career Foundry Data Analytics Program
-
+![image](https://user-images.githubusercontent.com/124174109/216132390-72e78bfb-747e-43b6-b62a-0bca1636362d.png)
 ### Objective
 Instacart is an online grocery store that operates through an app. 
 Instacart already has very good sales, but they want to uncover more
