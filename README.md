@@ -11,8 +11,13 @@ in order to derive insights and suggest strategies for better segmentation based
 
 ### Data
 Open source data from Instacart and a customer data set created for the purpose of this project.
+The dataset comprises of information on the following parameters:
 
-[Customers Data Set]
+- orders
+- products
+- departments
+
+The full details of the data are available on the following link:
 
 [“The Instacart Online Grocery Shopping Dataset
 2017”](https://www.instacart.com/datasets/grocery-shopping-2017)
