@@ -27,8 +27,3 @@ For this project, the following python libraries were used:
 
 - pandas - for data analysis
 - seaborn - for visualization
-
-### Executing the code
-The code is available as jupyter notebooks, available under /scripts/.
-
-- importing data: 
